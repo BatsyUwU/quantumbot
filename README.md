@@ -1,5 +1,6 @@
 # quantumbot
 ## a simple discord.js v12 bot for servers.
+**NOTE: THIS BOT IS STILL BEING EDITED. PLEASE BE PATIENT UNTIL RELEASE.**
 
 quantumbot is a discord.js v12 bot created for users to either start up their own bot for their server or grab any necessary code to help them along the way.
 
