@@ -5,7 +5,6 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 const Discord = require("discord.js");
 const { error } = require("console");
-const databaseUtils = require("./Utils/DatabaseUtils.js");
 
 const client = new Client({
   disableMentions: 'everyone'
